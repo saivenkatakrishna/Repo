@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 68A5-3CEF
+
+ Directory of C:\Users\anusha\Desktop\My Project
+
+01/26/2019  06:54 AM    <DIR>          .
+01/26/2019  06:54 AM    <DIR>          ..
+01/26/2019  06:54 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  326,095,134,720 bytes free
